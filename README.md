@@ -4,7 +4,7 @@ make a new folder "Crawling"
 git clone https://github.com/codelucas/newspaper.git
 ```
 
-#Install
+#Install (in Crawling folder)
 ```
 git clone git@github.com:ngotra2710/web_crawling.git
 cd Crawling
